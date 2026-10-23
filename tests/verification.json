@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-23",
+  "version": "1.0.0",
+  "syllabus_elements": 61,
+  "automated_rule_checks": 10,
+  "browser_checks": [
+    "map rendering and Galápagos view",
+    "full five-question written contest with hint and corrections",
+    "15-question exam with 14 correct and 1 wrong",
+    "new exam selection has 15 unique questions and changed order",
+    "confirmation before delivering blank answers",
+    "exam ranking orders 14/15 ahead of faster 0/15",
+    "three hints give 1 point and exhaust available hints",
+    "four-choice perfect challenge stops after one failure",
+    "clicking correct map location gives 10 points",
+    "records survive page reload",
+    "no horizontal overflow at inspected desktop viewport"
+  ],
+  "limitations": [
+    "Ranking is per browser/device; export/import supports transfer.",
+    "Mobile layout is implemented with responsive CSS; browser QA was performed at desktop viewport.",
+    "Relief and desert boundaries are school-scale approximations."
+  ]
+}

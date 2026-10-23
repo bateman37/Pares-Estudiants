@@ -1,0 +1,662 @@
+[
+  {
+    "id": "arctic",
+    "name": "Oceà Glacial Àrtic",
+    "matches": [],
+    "anchor": [
+      -110,
+      80
+    ]
+  },
+  {
+    "id": "atlantic",
+    "name": "Oceà Atlàntic",
+    "matches": [],
+    "anchor": [
+      -36,
+      28
+    ]
+  },
+  {
+    "id": "pacific",
+    "name": "Oceà Pacífic",
+    "matches": [],
+    "anchor": [
+      -140,
+      23
+    ]
+  },
+  {
+    "id": "caribbean",
+    "name": "Mar Carib",
+    "matches": [
+      "Caribbean Sea"
+    ],
+    "anchor": [
+      -73,
+      15
+    ]
+  },
+  {
+    "id": "rockies",
+    "name": "Muntanyes Rocalloses",
+    "matches": [
+      "ROCKY MOUNTAINS"
+    ],
+    "anchor": [
+      -113,
+      46
+    ]
+  },
+  {
+    "id": "appalachians",
+    "name": "Muntanyes Apalatxes",
+    "matches": [
+      "APPALACHIAN MTS."
+    ],
+    "anchor": [
+      -79,
+      38
+    ]
+  },
+  {
+    "id": "sierra-madre",
+    "name": "Sierra Madre",
+    "matches": [
+      "Sierra Madre del Sur",
+      "SIERRA MADRE ORIENTAL",
+      "SIERRA MADRE OCCIDENTAL"
+    ],
+    "anchor": [
+      -105,
+      25
+    ]
+  },
+  {
+    "id": "guiana",
+    "name": "Massís de les Guaianes",
+    "matches": [
+      "GUIANA HIGHLANDS"
+    ],
+    "anchor": [
+      -61,
+      5
+    ]
+  },
+  {
+    "id": "andes",
+    "name": "Serralada dels Andes",
+    "matches": [
+      "ANDES"
+    ],
+    "anchor": [
+      -72,
+      -18
+    ]
+  },
+  {
+    "id": "aconcagua",
+    "name": "Aconcagua",
+    "matches": [],
+    "anchor": [
+      -70.011,
+      -32.653
+    ]
+  },
+  {
+    "id": "pampa",
+    "name": "La Pampa",
+    "matches": [
+      "PAMPAS"
+    ],
+    "anchor": [
+      -62,
+      -35
+    ]
+  },
+  {
+    "id": "chihuahua",
+    "name": "Chihuahua",
+    "matches": [
+      "CHIHUAHUAN DESERT"
+    ],
+    "anchor": [
+      -105,
+      29
+    ]
+  },
+  {
+    "id": "atacama",
+    "name": "Atacama",
+    "matches": [
+      "DESIERTO DE ATACAMA"
+    ],
+    "anchor": [
+      -69.5,
+      -24
+    ]
+  },
+  {
+    "id": "great-lakes",
+    "name": "Grans Llacs",
+    "matches": [
+      "Lake Erie",
+      "Lake Ontario",
+      "Lake Superior",
+      "Lake Michigan",
+      "Lake Huron"
+    ],
+    "anchor": [
+      -84,
+      45
+    ]
+  },
+  {
+    "id": "maracaibo",
+    "name": "Maracaibo",
+    "matches": [
+      "Lago de Maracaibo"
+    ],
+    "anchor": [
+      -71.6,
+      9.8
+    ]
+  },
+  {
+    "id": "titicaca",
+    "name": "Titicaca",
+    "matches": [
+      "Lago Titicaca"
+    ],
+    "anchor": [
+      -69.3,
+      -15.8
+    ]
+  },
+  {
+    "id": "farvel",
+    "name": "Cap Farvel",
+    "matches": [],
+    "anchor": [
+      -43.92,
+      59.77
+    ]
+  },
+  {
+    "id": "hatteras",
+    "name": "Cap Hatteras",
+    "matches": [],
+    "anchor": [
+      -75.53,
+      35.22
+    ]
+  },
+  {
+    "id": "sao-roque",
+    "name": "Cap de San Roque",
+    "matches": [],
+    "anchor": [
+      -35.26,
+      -5.49
+    ]
+  },
+  {
+    "id": "horn",
+    "name": "Cap d’Hornos",
+    "matches": [],
+    "anchor": [
+      -67.29,
+      -55.98
+    ]
+  },
+  {
+    "id": "san-lucas",
+    "name": "Cap San Lucas",
+    "matches": [],
+    "anchor": [
+      -109.9,
+      22.88
+    ]
+  },
+  {
+    "id": "hudson-bay",
+    "name": "Badia de Hudson",
+    "matches": [
+      "Hudson Bay"
+    ],
+    "anchor": [
+      -85,
+      59
+    ]
+  },
+  {
+    "id": "mexico-gulf",
+    "name": "Golf de Mèxic",
+    "matches": [
+      "Gulf of Mexico"
+    ],
+    "anchor": [
+      -90,
+      25
+    ]
+  },
+  {
+    "id": "plata",
+    "name": "Riu de la Plata",
+    "matches": [
+      "Río de la Plata"
+    ],
+    "anchor": [
+      -56.5,
+      -35.3
+    ]
+  },
+  {
+    "id": "california-gulf",
+    "name": "Golf de Califòrnia",
+    "matches": [
+      "Golfo de California"
+    ],
+    "anchor": [
+      -110.8,
+      27
+    ]
+  },
+  {
+    "id": "alaska-gulf",
+    "name": "Golf d’Alaska",
+    "matches": [
+      "Gulf of Alaska"
+    ],
+    "anchor": [
+      -145,
+      57
+    ]
+  },
+  {
+    "id": "bering",
+    "name": "Estret de Bering",
+    "matches": [],
+    "anchor": [
+      -168.9,
+      65.8
+    ]
+  },
+  {
+    "id": "hudson-strait",
+    "name": "Estret de Hudson",
+    "matches": [
+      "Hudson Strait"
+    ],
+    "anchor": [
+      -70,
+      61
+    ]
+  },
+  {
+    "id": "florida-strait",
+    "name": "Estret de Florida",
+    "matches": [
+      "Straits of Florida"
+    ],
+    "anchor": [
+      -80.7,
+      24
+    ]
+  },
+  {
+    "id": "magellan",
+    "name": "Estret de Magallanes",
+    "matches": [
+      "Estrecho de Magellanes"
+    ],
+    "anchor": [
+      -71.5,
+      -53.1
+    ]
+  },
+  {
+    "id": "yukon",
+    "name": "Yukon",
+    "matches": [
+      "Yukon"
+    ],
+    "anchor": [
+      -151,
+      65.3
+    ]
+  },
+  {
+    "id": "mackenzie",
+    "name": "Mackenzie",
+    "matches": [
+      "Mackenzie",
+      "Mackenzie"
+    ],
+    "anchor": [
+      -127,
+      65
+    ]
+  },
+  {
+    "id": "st-lawrence",
+    "name": "Sant Llorenç",
+    "matches": [
+      "St. Lawrence"
+    ],
+    "anchor": [
+      -72,
+      46.5
+    ]
+  },
+  {
+    "id": "rio-grande",
+    "name": "Bravo o Grande",
+    "matches": [
+      "Rio Grande",
+      "Rio Grande"
+    ],
+    "anchor": [
+      -102,
+      29.5
+    ]
+  },
+  {
+    "id": "mississippi",
+    "name": "Mississippí–Missouri",
+    "matches": [
+      "Mississippi",
+      "Mississippi",
+      "Mississippi",
+      "Missouri",
+      "Missouri"
+    ],
+    "anchor": [
+      -91,
+      36
+    ]
+  },
+  {
+    "id": "colorado",
+    "name": "Colorado",
+    "matches": [
+      "Colorado",
+      "Colorado"
+    ],
+    "anchor": [
+      -112,
+      36
+    ]
+  },
+  {
+    "id": "orinoco",
+    "name": "Orinoco",
+    "matches": [
+      "Orinoco"
+    ],
+    "anchor": [
+      -66,
+      8
+    ]
+  },
+  {
+    "id": "amazon",
+    "name": "Amazones",
+    "matches": [
+      "Ucayali",
+      "Marañón",
+      "Amazonas",
+      "Amazonas"
+    ],
+    "anchor": [
+      -62,
+      -3.2
+    ]
+  },
+  {
+    "id": "parana",
+    "name": "Paranà",
+    "matches": [
+      "Paraná",
+      "Paraná",
+      "Paraná"
+    ],
+    "anchor": [
+      -58.5,
+      -28
+    ]
+  },
+  {
+    "id": "labrador",
+    "name": "Península de Labrador",
+    "matches": [
+      "LABRADOR"
+    ],
+    "anchor": [
+      -66,
+      55
+    ]
+  },
+  {
+    "id": "nova-scotia",
+    "name": "Península de Nova Escòcia",
+    "matches": [
+      "Nova Scotia"
+    ],
+    "anchor": [
+      -63.5,
+      45
+    ]
+  },
+  {
+    "id": "florida",
+    "name": "Península de Florida",
+    "matches": [
+      "FLORIDA"
+    ],
+    "anchor": [
+      -81.6,
+      27.5
+    ]
+  },
+  {
+    "id": "yucatan",
+    "name": "Península de Yucatán",
+    "matches": [
+      "PEN. DE YUCATÁN"
+    ],
+    "anchor": [
+      -89,
+      19.5
+    ]
+  },
+  {
+    "id": "baja-california",
+    "name": "Península de Califòrnia",
+    "matches": [
+      "BAJA CALIFORNIA"
+    ],
+    "anchor": [
+      -113.3,
+      28
+    ]
+  },
+  {
+    "id": "alaska",
+    "name": "Península d’Alaska",
+    "matches": [
+      "ALASKA PENINSULA"
+    ],
+    "anchor": [
+      -157,
+      57
+    ]
+  },
+  {
+    "id": "panama",
+    "name": "Istme de Panamà",
+    "matches": [],
+    "anchor": [
+      -79.7,
+      9
+    ]
+  },
+  {
+    "id": "banks",
+    "name": "Banks",
+    "matches": [
+      "BANKS ISLAND"
+    ],
+    "anchor": [
+      -122.5,
+      73
+    ]
+  },
+  {
+    "id": "victoria",
+    "name": "Victòria",
+    "matches": [
+      "VICTORIA ISLAND"
+    ],
+    "anchor": [
+      -110,
+      71
+    ]
+  },
+  {
+    "id": "greenland",
+    "name": "Grenlàndia",
+    "matches": [
+      "GREENLAND"
+    ],
+    "anchor": [
+      -42,
+      73
+    ]
+  },
+  {
+    "id": "bahamas",
+    "name": "Bahames",
+    "matches": [
+      "BAHAMA ISLANDS"
+    ],
+    "anchor": [
+      -76.2,
+      24.6
+    ]
+  },
+  {
+    "id": "cuba",
+    "name": "Cuba",
+    "matches": [
+      "CUBA"
+    ],
+    "anchor": [
+      -79.5,
+      22
+    ]
+  },
+  {
+    "id": "jamaica",
+    "name": "Jamaica",
+    "matches": [
+      "Jamaica"
+    ],
+    "anchor": [
+      -77.3,
+      18.1
+    ]
+  },
+  {
+    "id": "hispaniola",
+    "name": "Hispaniola",
+    "matches": [
+      "HISPANIOLA"
+    ],
+    "anchor": [
+      -71,
+      19
+    ]
+  },
+  {
+    "id": "puerto-rico",
+    "name": "Puerto Rico",
+    "matches": [
+      "Puerto Rico"
+    ],
+    "anchor": [
+      -66.4,
+      18.2
+    ]
+  },
+  {
+    "id": "lesser-antilles",
+    "name": "Petites Antilles",
+    "matches": [],
+    "anchor": [
+      -61.7,
+      15
+    ]
+  },
+  {
+    "id": "falklands",
+    "name": "Malvines",
+    "matches": [
+      "West Falkland",
+      "East Falkland"
+    ],
+    "anchor": [
+      -59.5,
+      -51.7
+    ]
+  },
+  {
+    "id": "tierra-del-fuego",
+    "name": "Terra del Foc",
+    "matches": [
+      "TIERRA DEL FUEGO"
+    ],
+    "anchor": [
+      -69,
+      -54.2
+    ]
+  },
+  {
+    "id": "galapagos",
+    "name": "Galápagos",
+    "matches": [],
+    "anchor": [
+      -90.7,
+      -0.5
+    ]
+  },
+  {
+    "id": "vancouver",
+    "name": "Vancouver",
+    "matches": [
+      "Vancouver Island"
+    ],
+    "anchor": [
+      -125.8,
+      49.6
+    ]
+  },
+  {
+    "id": "aleutians",
+    "name": "Aleutianes",
+    "matches": [],
+    "anchor": [
+      -170,
+      53
+    ]
+  },
+  {
+    "id": "easter",
+    "name": "Pascua",
+    "matches": [],
+    "anchor": [
+      -109.35,
+      -27.12
+    ]
+  }
+]
