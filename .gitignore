@@ -1,0 +1,5 @@
+# Raw Natural Earth downloads can be reproduced with scripts/download-data.py.
+data/ne_*.geojson
+dist/
+.openai/
+__pycache__/
